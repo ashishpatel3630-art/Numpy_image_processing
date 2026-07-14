@@ -189,7 +189,7 @@ This project helps you understand:
 
 AI Engineer | Python Developer | NumPy Enthusiast
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ashishpatel3630-art
 
 ---
 
